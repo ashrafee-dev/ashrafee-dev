@@ -1,9 +1,9 @@
 <div align="center">
   <table style="border: none; background: none; margin: 0 auto;">
     <tr>
-      <td style="vertical-align: middle; border: none; background: none; padding-right: 25px; text-align: center;">
+<!--       <td style="vertical-align: middle; border: none; background: none; padding-right: 25px; text-align: center;">
         <img src="profile.jpg" alt="Profile" width="120" height="110" style="border-radius: 50%; box-shadow: 0 2px 8px rgba(0,0,0,0.10); object-fit: cover;" />
-      </td>
+      </td> -->
       <td style="vertical-align: middle; border: none; background: none; padding-right: 25px; text-align: center;">
         <code style="font-size:3em; font-weight: bold; letter-spacing: 5px;"><strong>「 Hi 👋, I'm Mahdi 」</strong></code>
       </td>
