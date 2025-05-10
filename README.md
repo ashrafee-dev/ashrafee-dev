@@ -145,7 +145,7 @@
   <br>
   University at Buffalo
   <br>
-  <em>Expected Graduation: Jan 2028 (Accelerating coursework — may graduate as early as 2026–2027)</em>
+  <em>Expected Graduation: Jan 2028 (Accelerating coursework — may graduate as early as 2026)</em>
 </p>
 
 <div align="center">
