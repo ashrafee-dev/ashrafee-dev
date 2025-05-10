@@ -1,45 +1,51 @@
 <div align="center">
-  <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=50&pause=1000&color=4285F4&center=true&vCenter=true&random=false&width=600&height=100&lines=AWS+Cloud+Practitioner&repeat=true" alt="AWS Cloud Practitioner" />
-  </h1>
-  
+  <table style="border: none; background: none; margin: 0 auto;">
+    <tr>
+      <td style="vertical-align: middle; border: none; background: none; padding-right: 25px; text-align: center;">
+        <img src="profile.jpg" alt="Profile" width="120" height="110" style="border-radius: 50%; box-shadow: 0 2px 8px rgba(0,0,0,0.10); object-fit: cover;" />
+      </td>
+      <td style="vertical-align: middle; border: none; background: none; padding-right: 25px; text-align: center;">
+        <code style="font-size:3em; font-weight: bold; letter-spacing: 5px;"><strong>「 Hi 👋, I'm Mahdi 」</strong></code>
+      </td>
+      <td style="vertical-align: middle; border: none; background: none; text-align: center;">
+        <img src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" alt="Coding Freak" width="120" height="110" style="object-fit: cover;" />
+      </td>
+    </tr>
+  </table>
+
   <p align="center">
-    <img src="https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=232F3E" alt="AWS Certified Cloud Practitioner" />
-    <img src="https://img.shields.io/badge/Computer%20Science-Student-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white&labelColor=0F9D58" alt="Computer Science Student" />
-  </p>
-  
-  <div align="center" style="margin-top: 20px;">
     <a href="https://github.com/mahdiashrafee-oss">
-      <img src="https://img.shields.io/badge/Profile%20views-10+-0e75b6?style=flat-square&logo=github&logoColor=white" alt="Profile Views" />
+      <img src="https://img.shields.io/badge/Profile%20views-10%2B-3b82f6?style=for-the-badge&logo=github&logoColor=white&labelColor=6366f1" alt="Profile Views" />
     </a>
+    <span style="display:inline-block; width: 10px;"></span>
     <a href="https://github.com/mahdiashrafee-oss?tab=followers">
-      <img src="https://img.shields.io/github/followers/mahdiashrafee-oss?label=Followers&style=flat-square&color=0e75b6" alt="GitHub Followers" />
+      <img src="https://img.shields.io/badge/Followers-3-6366f1?style=for-the-badge&logo=github&logoColor=white&labelColor=3b82f6" alt="GitHub Followers" />
+    </a>
+  </p>
+
+  <h2 align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=40&duration=3000&pause=400&color=0366D6&center=true&vCenter=true&width=600&height=60&lines=AWS+Solution+Architect;Full+Stack+Developer;Computer+Science+Student" alt="Typing SVG" /></a>
+  </h2>
+
+ 
+
+  <div align="center">
+    <a href="https://myintro.link">
+      <img src="https://img.shields.io/badge/Website-myintro.link-0366D6?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    </a>
+    <a href="mailto:mahdiash@buffalo.edu">
+      <img src="https://img.shields.io/badge/Email-mahdiash@buffalo.edu-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://linkedin.com/in/mahdi959">
+      <img src="https://img.shields.io/badge/LinkedIn-mahdi959-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://github.com/mahdiashrafee-oss">
+      <img src="https://img.shields.io/badge/GitHub-mahdiashrafee--oss-24292E?style=for-the-badge&logo=github&logoColor=white" />
     </a>
   </div>
 </div>
 
-<h2 align="center">👨‍💻 About Me</h2>
-
-<p align="center">
-  <b>Hi, I'm Mahdi Ashrafee</b> — a motivated Computer Science student with a passion for cloud infrastructure, distributed systems, and performance optimization. Currently building secure, scalable web applications with modern technologies and cloud-native architecture.
-</p>
-
-<div align="center">
-  <a href="https://myintro.link">
-    <img src="https://img.shields.io/badge/Website-myintro.link-blue?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="mailto:mahdiash@buffalo.edu">
-    <img src="https://img.shields.io/badge/Email-mahdiash@buffalo.edu-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/mahdi959">
-    <img src="https://img.shields.io/badge/LinkedIn-mahdi959-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/mahdiashrafee-oss">
-    <img src="https://img.shields.io/badge/GitHub-mahdiashrafee--oss-lightgrey?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</div>
-
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center"> GitHub Stats</h2>
 
 <div align="center" width="100%">
   <table width="100%">
@@ -63,7 +69,9 @@
     </tr>
   </table>
 </div>
-
+ <p align="center">
+    A motivated Computer Science student with a passion for cloud infrastructure, distributed systems, and performance optimization. Currently building secure, scalable web applications with modern technologies and cloud-native architecture.
+  </p>
 <h2 align="center">🛠️ My Tech Stack</h2>
 
 <h3 align="center">Programming Languages</h3>
@@ -147,5 +155,5 @@
 </div>
 
 <p align="center">
-  <small>🏙️ Buffalo, NY  •  📱 716-907-2722</small>
+  <small>🏙️ Buffalo, NY </small>
 </p>
