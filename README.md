@@ -25,7 +25,7 @@
   
 
   <h2 align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=40&duration=3000&pause=400&color=0366D6&center=true&vCenter=true&width=600&height=60&lines=AWS+Solution+Architect;Full+Stack+Developer;Computer+Science+Student" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=40&duration=500&pause=400&color=0366D6&center=true&vCenter=true&width=600&height=60&lines=AWS+Solution+Architect;Full+Stack+Developer;Computer+Science+Student" alt="Typing SVG" /></a>
   </h2>
 
  
@@ -39,9 +39,6 @@
     </a>
     <a href="https://linkedin.com/in/mahdi959">
       <img src="https://img.shields.io/badge/LinkedIn-mahdi959-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="https://github.com/mahdiashrafee-oss">
-      <img src="https://img.shields.io/badge/GitHub-mahdiashrafee--oss-24292E?style=for-the-badge&logo=github&logoColor=white" />
     </a>
   </div>
 </div>
@@ -152,9 +149,5 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2196F3&center=true&vCenter=true&random=false&width=600&height=50&lines=Thanks+for+visiting!+Let's+connect+and+build+something+amazing!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight500&size=20&pause=500&color=2196F3&center=true&vCenter=true&random=false&width600&height40&lines=Thanks+for+visiting!" alt="Typing SVG" />
 </div>
-
-<p align="center">
-  <small>🏙️ Buffalo, NY </small>
-</p>
