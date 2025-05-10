@@ -1,13 +1,15 @@
 <div align="center">
   <table style="border: none; background: none; margin: 0 auto;">
     <p align="center">
-    <a href="https://github.com/mahdiashrafee-oss">
-      <img src="https://img.shields.io/badge/Profile%20views-10%2B-3b82f6?style=for-the-badge&logo=github&logoColor=white&labelColor=6366f1" alt="Profile Views" />
-    </a>
-    <span style="display:inline-block; width: 10px;"></span>
-    <a href="https://github.com/mahdiashrafee-oss?tab=followers">
-      <img src="https://img.shields.io/badge/Followers-3-6366f1?style=for-the-badge&logo=github&logoColor=white&labelColor=3b82f6" alt="GitHub Followers" />
-    </a>
+    <!-- =========  Centered, dynamic profile‑views badge  ========= -->
+<p align="center">
+  <a href="https://github.com/mahdiashrafee-oss" title="👀 Profile views">
+    <img
+      src="https://komarev.com/ghpvc/?username=mahdiashrafee-oss&style=for-the-badge&label=Profile+views&color=1E40AF&labelColor=60A5FA"
+      alt="Profile views badge" />
+  </a>
+</p>
+
   </p>
     <tr>
 <!--       <td style="vertical-align: middle; border: none; background: none; padding-right: 25px; text-align: center;">
