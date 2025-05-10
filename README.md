@@ -1,5 +1,14 @@
 <div align="center">
   <table style="border: none; background: none; margin: 0 auto;">
+    <p align="center">
+    <a href="https://github.com/mahdiashrafee-oss">
+      <img src="https://img.shields.io/badge/Profile%20views-10%2B-3b82f6?style=for-the-badge&logo=github&logoColor=white&labelColor=6366f1" alt="Profile Views" />
+    </a>
+    <span style="display:inline-block; width: 10px;"></span>
+    <a href="https://github.com/mahdiashrafee-oss?tab=followers">
+      <img src="https://img.shields.io/badge/Followers-3-6366f1?style=for-the-badge&logo=github&logoColor=white&labelColor=3b82f6" alt="GitHub Followers" />
+    </a>
+  </p>
     <tr>
 <!--       <td style="vertical-align: middle; border: none; background: none; padding-right: 25px; text-align: center;">
         <img src="profile.jpg" alt="Profile" width="120" height="110" style="border-radius: 50%; box-shadow: 0 2px 8px rgba(0,0,0,0.10); object-fit: cover;" />
@@ -13,15 +22,7 @@
     </tr>
   </table>
 
-  <p align="center">
-    <a href="https://github.com/mahdiashrafee-oss">
-      <img src="https://img.shields.io/badge/Profile%20views-10%2B-3b82f6?style=for-the-badge&logo=github&logoColor=white&labelColor=6366f1" alt="Profile Views" />
-    </a>
-    <span style="display:inline-block; width: 10px;"></span>
-    <a href="https://github.com/mahdiashrafee-oss?tab=followers">
-      <img src="https://img.shields.io/badge/Followers-3-6366f1?style=for-the-badge&logo=github&logoColor=white&labelColor=3b82f6" alt="GitHub Followers" />
-    </a>
-  </p>
+  
 
   <h2 align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=40&duration=3000&pause=400&color=0366D6&center=true&vCenter=true&width=600&height=60&lines=AWS+Solution+Architect;Full+Stack+Developer;Computer+Science+Student" alt="Typing SVG" /></a>
