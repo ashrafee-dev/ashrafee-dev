@@ -1,16 +1,27 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=2196F3&center=true&vCenter=true&random=false&width=600&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Mahdi+Ashrafee;Full+Stack+Developer;Computer+Science+Student;AWS+Cloud+Practitioner" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mahdiashrafee-oss&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/mahdiashrafee-oss?label=Follow&style=social" alt="GitHub Followers" />
+  <h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=50&pause=1000&color=4285F4&center=true&vCenter=true&random=false&width=600&height=100&lines=AWS+Cloud+Practitioner" alt="AWS Cloud Practitioner" />
+  </h1>
+  
+  <p align="center">
+    <img src="https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=232F3E" alt="AWS Certified Cloud Practitioner" />
+    <img src="https://img.shields.io/badge/Computer%20Science-Student-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white&labelColor=0F9D58" alt="Computer Science Student" />
+  </p>
+  
+  <div align="center" style="margin-top: 20px;">
+    <a href="https://github.com/mahdiashrafee-oss">
+      <img src="https://img.shields.io/badge/Profile%20views-10+-0e75b6?style=flat-square&logo=github&logoColor=white" alt="Profile Views" />
+    </a>
+    <a href="https://github.com/mahdiashrafee-oss?tab=followers">
+      <img src="https://img.shields.io/github/followers/mahdiashrafee-oss?label=Followers&style=flat-square&color=0e75b6" alt="GitHub Followers" />
+    </a>
+  </div>
 </div>
 
 <h2 align="center">👨‍💻 About Me</h2>
 
 <p align="center">
-  Motivated Computer Science student with a passion for cloud infrastructure, distributed systems, and performance optimization. Currently building a secure, scalable social media web application and e-commerce platforms.
+  <b>Hi, I'm Mahdi Ashrafee</b> — a motivated Computer Science student with a passion for cloud infrastructure, distributed systems, and performance optimization. Currently building secure, scalable web applications with modern technologies and cloud-native architecture.
 </p>
 
 <div align="center">
