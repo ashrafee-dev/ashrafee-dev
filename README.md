@@ -30,12 +30,27 @@
 
 <h2 align="center">📊 GitHub Stats</h2>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahdiashrafee-oss&show_icons=true&theme=react" alt="GitHub Stats" />
+<div align="center" width="100%">
+  <table width="100%">
+    <tr>
+      <td width="100%" align="center" style="padding: 0; background-color: #1A1B27;">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=mahdiashrafee-oss&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&custom_title=Mahdi%20Ashrafee's%20GitHub%20Stats" alt="GitHub Stats"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahdiashrafee-oss&theme=react" alt="GitHub Streak" />
+<div align="center" width="100%">
+  <table width="100%">
+    <tr>
+      <td width="60%" align="center" style="padding: 0; background-color: #1A1B27;">
+        <img width="100%" src="https://streak-stats.demolab.com?user=mahdiashrafee-oss&theme=tokyonight&hide_border=true&mode=weekly" alt="GitHub Streak"/>
+      </td>
+      <td width="40%" align="center" style="padding: 0; background-color: #1A1B27;">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdiashrafee-oss&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <h2 align="center">🛠️ My Tech Stack</h2>
