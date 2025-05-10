@@ -28,16 +28,14 @@
   </a>
 </div>
 
-<h2 align="center">🚀 Projects</h2>
+<h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <a href="https://github.com/mahdiashrafee-oss/SalamFlow">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahdiashrafee-oss&repo=SalamFlow&theme=react" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=mahdiashrafee-oss&show_icons=true&theme=react" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <p><strong>SalamFlow</strong> - A secure, scalable social media web application with user authentication, real-time chat, and media upload features. Using AWS Fargate, S3, RDS, and CloudFront (CDN) with containerized microservices on ECS.</p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahdiashrafee-oss&theme=react" alt="GitHub Streak" />
 </div>
 
 <h2 align="center">🛠️ My Tech Stack</h2>
@@ -99,16 +97,6 @@
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Emacs-7F5AB6?style=for-the-badge&logo=gnu-emacs&logoColor=white" />
 </p>
-
-<h2 align="center">📊 GitHub Stats</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahdiashrafee-oss&show_icons=true&theme=react" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahdiashrafee-oss&theme=react" alt="GitHub Streak" />
-</div>
 
 <h2 align="center">🏆 Certifications</h2>
 
