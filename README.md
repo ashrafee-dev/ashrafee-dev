@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=50&pause=1000&color=4285F4&center=true&vCenter=true&random=false&width=600&height=100&lines=AWS+Cloud+Practitioner" alt="AWS Cloud Practitioner" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=50&pause=1000&color=4285F4&center=true&vCenter=true&random=false&width=600&height=100&lines=AWS+Cloud+Practitioner&repeat=true" alt="AWS Cloud Practitioner" />
   </h1>
   
   <p align="center">
