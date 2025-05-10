@@ -60,7 +60,7 @@
 <div align="center" width="100%">
   <table width="100%">
     <tr>
-      <td width="60%" align="center" style="padding: 0; background-color: #1A1B27;">
+      <td width="55%" align="center" style="padding: 0; background-color: #1A1B27;">
         <img width="100%" src="https://streak-stats.demolab.com?user=mahdiashrafee-oss&theme=tokyonight&hide_border=true&mode=weekly" alt="GitHub Streak"/>
       </td>
       <td width="40%" align="center" style="padding: 0; background-color: #1A1B27;">
