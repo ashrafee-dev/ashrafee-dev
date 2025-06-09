@@ -33,7 +33,7 @@
  
 
   <div align="center">
-    <a href="https://myintro.link">
+    <a href="https://mahdi.myintro.link">
       <img src="https://img.shields.io/badge/Website-myintro.link-0366D6?style=for-the-badge&logo=google-chrome&logoColor=white" />
     </a>
     <a href="mailto:mahdiash@buffalo.edu">
