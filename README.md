@@ -3,9 +3,9 @@
     <p align="center">
     <!-- =========  Centered, dynamic profile‑views badge  ========= -->
 <p align="center">
-  <a href="https://github.com/mahdiashrafee-oss" title="👀 Profile views">
+  <a href="https://github.com/oss-mahdi" title="👀 Profile views">
     <img
-      src="https://komarev.com/ghpvc/?username=mahdiashrafee-oss&style=for-the-badge&label=Profile+views&color=1E40AF&labelColor=60A5FA"
+      src="https://komarev.com/ghpvc/?username=oss-mahdi&style=for-the-badge&label=Profile+views&color=1E40AF&labelColor=60A5FA"
       alt="Profile views badge" />
   </a>
 </p>
@@ -51,7 +51,7 @@
   <table width="100%">
     <tr>
       <td width="100%" align="center" style="padding: 0; background-color: #1A1B27;">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=mahdiashrafee-oss&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&custom_title=Mahdi%20Ashrafee's%20GitHub%20Stats" alt="GitHub Stats"/>
+        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=oss-mahdi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&custom_title=Mahdi%20Ashrafee's%20GitHub%20Stats" alt="GitHub Stats"/>
       </td>
     </tr>
   </table>
@@ -61,10 +61,10 @@
   <table width="100%">
     <tr>
       <td width="55%" align="center" style="padding: 0; background-color: #1A1B27;">
-        <img width="100%" src="https://streak-stats.demolab.com?user=mahdiashrafee-oss&theme=tokyonight&hide_border=true&mode=weekly" alt="GitHub Streak"/>
+        <img width="100%" src="https://streak-stats.demolab.com?user=oss-mahdi&theme=tokyonight&hide_border=true&mode=weekly" alt="GitHub Streak"/>
       </td>
       <td width="40%" align="center" style="padding: 0; background-color: #1A1B27;">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdiashrafee-oss&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages"/>
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oss-mahdi&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages"/>
       </td>
     </tr>
   </table>
@@ -154,6 +154,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight500&size=20&pause=500&color=2196F3&center=true&vCenter=true&random=false&width600&height40&lines=Thanks+for+visiting!" alt="Typing SVG" />
 </div>
 <div align="center">
-  <img src="https://github.com/mahdiashrafee-oss/mahdiashrafee-oss/blob/output/github-snake.svg" alt="snake gif"/>
+  <img src="https://github.com/oss-mahdi/oss-mahdi/blob/output/github-snake.svg" alt="snake gif"/>
 </div>
 
