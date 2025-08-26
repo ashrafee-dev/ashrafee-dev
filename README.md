@@ -153,7 +153,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight500&size=20&pause=500&color=2196F3&center=true&vCenter=true&random=false&width600&height40&lines=Thanks+for+visiting!" alt="Typing SVG" />
 </div>
-<div align="center">
+<!-- <div align="center">
   <img src="https://github.com/oss-mahdi/oss-mahdi/blob/output/github-snake.svg" alt="snake gif"/>
-</div>
+</div> -->
 
