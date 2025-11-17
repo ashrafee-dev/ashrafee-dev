@@ -37,7 +37,7 @@
       <img src="https://img.shields.io/badge/Website-ashrafee.dev-0366D6?style=for-the-badge&logo=google-chrome&logoColor=white" />
     </a>
     <a href="mailto:mahdiash@buffalo.edu">
-      <img src="https://img.shields.io/badge/Email-mahdiash@buffalo.edu-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+      <img src="https://img.shields.io/badge/Email-inbox@ashrafee.dev-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
     <a href="https://www.linkedin.com/in/mahdi-ash" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-mahdi--ash-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
