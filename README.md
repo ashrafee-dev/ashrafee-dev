@@ -47,7 +47,7 @@
 
 <h2 align="center"> GitHub Stats</h2>
 
-<div align="center" width="100%">
+<!-- <div align="center" width="100%">
   <table width="100%">
     <tr>
       <td width="100%" align="center" style="padding: 0; background-color: #1A1B27;">
@@ -55,14 +55,14 @@
       </td>
     </tr>
   </table>
-</div>
+</div> -->
 
 <div align="center" width="100%">
   <table width="100%">
     <tr>
-      <td width="55%" align="center" style="padding: 0; background-color: #1A1B27;">
+      <!-- <td width="55%" align="center" style="padding: 0; background-color: #1A1B27;">
         <img width="100%" src="https://streak-stats.demolab.com?user=Ashrafee-dev&theme=tokyonight&hide_border=true&mode=weekly" alt="GitHub Streak"/>
-      </td>
+      </td> -->
       <td width="40%" align="center" style="padding: 0; background-color: #1A1B27;">
         <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashrafee-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages"/>
       </td>
@@ -76,10 +76,10 @@
 
 <h3 align="center">Programming Languages</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 </p>
@@ -137,7 +137,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/AWS_Certified_Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <br>
-  <img src="https://img.shields.io/badge/(In_Progress)_AWS_Certified_Solutions_Architect_Associate-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS_Certified_Solutions_Architect_Associate-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </p>
 
 <h2 align="center">🎓 Education</h2>
