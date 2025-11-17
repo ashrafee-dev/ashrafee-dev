@@ -39,8 +39,8 @@
     <a href="mailto:mahdiash@buffalo.edu">
       <img src="https://img.shields.io/badge/Email-mahdiash@buffalo.edu-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
-    <a href="https://linkedin.com/in/mahdi959">
-      <img src="https://img.shields.io/badge/LinkedIn-mahdi959-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <a href="https://linkedin.com/in/mahdi-ash">
+      <img src="https://img.shields.io/badge/LinkedIn-mahdi-ash-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
   </div>
 </div>
