@@ -33,7 +33,7 @@
  
 
   <div align="center">
-    <a href="https://mahdi.ashrafee.dev">
+    <a href="https://ashrafee.dev">
       <img src="https://img.shields.io/badge/Website-ashrafee.dev-0366D6?style=for-the-badge&logo=google-chrome&logoColor=white" />
     </a>
     <a href="mailto:inbox@ashrafee.dev">
